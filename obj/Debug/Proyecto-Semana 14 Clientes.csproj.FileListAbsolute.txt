@@ -1,0 +1,8 @@
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\bin\Debug\Proyecto-Semana 14 Clientes.exe.config
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\bin\Debug\Proyecto-Semana 14 Clientes.exe
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\bin\Debug\Proyecto-Semana 14 Clientes.pdb
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\obj\Debug\Proyecto-Semana 14 Clientes.csproj.AssemblyReference.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\obj\Debug\Proyecto-Semana 14 Clientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\obj\Debug\Proyecto-Semana 14 Clientes.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\obj\Debug\Proyecto-Semana 14 Clientes.exe
+C:\Users\joaqu\Desktop\C#\SEMANA 12- CADENA DE CARACTERES\1\Proyecto-Semana 14 Clientes\obj\Debug\Proyecto-Semana 14 Clientes.pdb
